@@ -7,14 +7,17 @@
 # server process.
 
 # Basic Site Settings
+# Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "default"
 title                    : "Adeti Afe"
 title_separator          : "-"
 name                     : &name "Adeti Afe"
 description              : &description "Academic and sustainability work by Adeti Afe – environmental science, GIS, and civil & environmental engineering."
-url                      : "https://adetiafe.github.io"  # Your site URL
-baseurl                  : "/adetiafe.github.io" # the subpath of your site, keep "" since you're using username.github.io root
+
+url                      : "https://adeti-afe.github.io"
+baseurl                  : "/adetiafe.github.io"
+
 repository               : "adeti-afe/adetiafe.github.io"
 
 # Site Author
