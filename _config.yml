@@ -13,8 +13,8 @@ title                    : "Adeti Afe"
 title_separator          : "-"
 name                     : &name "Adeti Afe"
 description              : &description "Academic and sustainability work by Adeti Afe – environmental science, GIS, and civil & environmental engineering."
-url                      : https://adetiafe.github.io  # Your site URL
-baseurl                  : "" # the subpath of your site, keep "" since you're using username.github.io root
+url                      : "https://adetiafe.github.io"  # Your site URL
+baseurl                  : "/adetiafe.github.io" # the subpath of your site, keep "" since you're using username.github.io root
 repository               : "adeti-afe/adetiafe.github.io"
 
 # Site Author
