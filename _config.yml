@@ -18,7 +18,7 @@ baseurl                  : "" # the subpath of your site, keep "" since you're u
 repository               : "adeti-afe/adetiafe.github.io"
 
 # Site Author
-author: "Adeti Afe"
+author: 
   # Biographic information
   avatar           : "profile.png"   # keep this for now; after you upload your own image, name it profile.png or change this to match
   name             : "Adeti Afe"
@@ -27,11 +27,11 @@ author: "Adeti Afe"
   location         : "Baltimore, MD"
   employer         : "UMBC"
   uri              :                 # you can add LinkedIn or leave empty
-  email            : "your.email@umbc.edu"   # replace with whichever email you want public
+  email            : "aafe1gmail@umbc.edu"   # replace with whichever email you want public
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  academia         : "" # URL 
+  arxiv            : "" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
