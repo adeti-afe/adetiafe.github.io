@@ -18,7 +18,7 @@ baseurl                  : "" # the subpath of your site, keep "" since you're u
 repository               : "adeti-afe/adetiafe.github.io"
 
 # Site Author
-author:
+author: "Adeti Afe"
   # Biographic information
   avatar           : "profile.png"   # keep this for now; after you upload your own image, name it profile.png or change this to match
   name             : "Adeti Afe"
