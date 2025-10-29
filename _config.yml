@@ -20,7 +20,7 @@ repository               : "adeti-afe/adetiafe.github.io"
 # Site Author
 author: 
   # Biographic information
-  avatar           : "profile.png.jpeg"   # keep this for now; after you upload your own image, name it profile.png or change this to match
+  avatar           : "images/profile.png.jpeg"   # keep this for now; after you upload your own image, name it profile.png or change this to match
   name             : "Adeti Afe"
   pronouns         :                # you can add something like "she/her", "he/him", "they/them", or leave blank
   bio              : "Environmental science & GIS student at UMBC, focusing on sustainability, community impact, and civil & environmental engineering."
